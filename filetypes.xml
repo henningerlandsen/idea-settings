@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.bat;*.orig;.git;editor_cache;projects;res_build;res_cache;res_output;" />
+    <extensionMap>
+      <mapping pattern="makefile" type="PLAIN_TEXT" />
+      <mapping pattern="StoredDataProgressionTest" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

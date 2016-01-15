@@ -1,0 +1,1 @@
+cmake_minimum_version(VERSION 2.8)
