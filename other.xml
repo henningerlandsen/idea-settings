@@ -47,6 +47,9 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="OCRunConfigurationsSettings">
+    <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
+  </component>
   <component name="XcodeSettings">
     <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
     <option name="detectedXcodes">
