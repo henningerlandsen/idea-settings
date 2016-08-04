@@ -1200,9 +1200,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="RUBY_PARAMETER_ID">
-      <value />
-    </option>
     <option name="RUBY_PARENTHESES">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -1224,9 +1221,6 @@
         <option name="FOREGROUND" value="b58900" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="RUBY_STRING">
-      <value />
     </option>
     <option name="RUBY_SYMBOL">
       <value>
@@ -1279,9 +1273,6 @@
       <value>
         <option name="FOREGROUND" value="cb4b16" />
       </value>
-    </option>
-    <option name="SASS_STRING">
-      <value />
     </option>
     <option name="SASS_VARIABLE">
       <value>
