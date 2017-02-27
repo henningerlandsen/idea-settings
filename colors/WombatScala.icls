@@ -1,4 +1,4 @@
-<scheme name="Wombat" version="142" parent_scheme="Default">
+<scheme name="WombatScala" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -111,6 +111,7 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="99968b" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -141,6 +142,7 @@
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="99968b" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
@@ -241,6 +243,7 @@
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="cae682" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -266,6 +269,7 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="99968b" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -443,6 +447,7 @@
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cae682" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -480,36 +485,6 @@
         <option name="FOREGROUND" value="808080" />
         <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="OC.CLASS_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="cae682" />
-      </value>
-    </option>
-    <option name="OC.MESSAGE_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="f6f3e8" />
-      </value>
-    </option>
-    <option name="OC.PROTOCOL_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="cae682" />
-      </value>
-    </option>
-    <option name="OC.STRUCT_FIELD">
-      <value>
-        <option name="FOREGROUND" value="f6f3e8" />
-      </value>
-    </option>
-    <option name="OC.STRUCT_LIKE">
-      <value>
-        <option name="FOREGROUND" value="cae682" />
-      </value>
-    </option>
-    <option name="OC.TYPEDEF">
-      <value>
-        <option name="FOREGROUND" value="cae682" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">

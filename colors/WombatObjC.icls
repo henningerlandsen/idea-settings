@@ -1,4 +1,4 @@
-<scheme name="Wombat" version="142" parent_scheme="Default">
+<scheme name="WombatObjC" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -161,6 +161,12 @@
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f08080" />
+      </value>
+    </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="f6f3e8" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -485,6 +491,12 @@
     <option name="OC.CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="cae682" />
+      </value>
+    </option>
+    <option name="OC.MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="53dccd" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="OC.MESSAGE_ARGUMENT">
